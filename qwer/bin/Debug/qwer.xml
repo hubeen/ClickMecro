@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+qwer
+</name>
+</assembly>
+<members>
+<member name="T:qwer.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:qwer.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:qwer.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:qwer.Form1.SystemMetric.SM_CXSCREEN">
+ <summary>
+  Width of the screen of the primary display monitor in pixels. This is the same values obtained by calling GetDeviceCaps as follows: GetDeviceCaps( hdcPrimaryMonitor HORZRES).
+ </summary>
+</member>
+<member name="F:qwer.Form1.SystemMetric.SM_CYSCREEN">
+ <summary>
+ Height of the screen of the primary display monitor in pixels. This is the same values obtained by calling GetDeviceCaps as follows: GetDeviceCaps( hdcPrimaryMonitor VERTRES).
+ </summary>
+</member>
+</members>
+</doc>

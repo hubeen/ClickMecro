@@ -1,0 +1,11 @@
+\\mac\home\documents\visual studio 2017\Projects\qwer\qwer\bin\Debug\qwer.exe.config
+\\mac\home\documents\visual studio 2017\Projects\qwer\qwer\bin\Debug\qwer.exe
+\\mac\home\documents\visual studio 2017\Projects\qwer\qwer\bin\Debug\qwer.pdb
+\\mac\home\documents\visual studio 2017\Projects\qwer\qwer\bin\Debug\qwer.xml
+\\mac\home\documents\visual studio 2017\Projects\qwer\qwer\obj\Debug\qwer.vbprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\qwer\qwer\obj\Debug\qwer.Form1.resources
+\\mac\home\documents\visual studio 2017\Projects\qwer\qwer\obj\Debug\qwer.Resources.resources
+\\mac\home\documents\visual studio 2017\Projects\qwer\qwer\obj\Debug\qwer.vbproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2017\Projects\qwer\qwer\obj\Debug\qwer.exe
+\\mac\home\documents\visual studio 2017\Projects\qwer\qwer\obj\Debug\qwer.xml
+\\mac\home\documents\visual studio 2017\Projects\qwer\qwer\obj\Debug\qwer.pdb
